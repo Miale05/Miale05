@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/miguel-due%c3%b1as-%ef%a3%bf-45b398181" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-due%c3%b1as-%ef%a3%bf-45b398181" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCyt11RKF0oSEtkfeXagZdAw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="migueldue1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCyt11RKF0oSEtkfeXagZdAw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCyt11RKF0oSEtkfeXagZdAw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
