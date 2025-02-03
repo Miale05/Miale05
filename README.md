@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Angular and Python**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-miguel-duenas.herokuapp.com/](https://portfolio-miguel-duenas.herokuapp.com/)
-
-- 📝 You can check my certificates at [https://miguel-duenas-certificates.herokuapp.com/](https://miguel-duenas-certificates.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://miguel-duenas-portfolio.netlify.app/](https://miguel-duenas-portfolio.netlify.app/)
 
 - 📫 How to reach me **migueldue123@gmail.com**
 
